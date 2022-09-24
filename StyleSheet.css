@@ -1,0 +1,14 @@
+.card{
+    box-sizing: border-box;
+    padding: 10px;
+    margin-block: 10px;
+    
+   }
+.card-img-top{
+    width:12rem;
+    height: 12rem;
+    align-self: center;
+    }
+.col{
+    align-self:stretch
+}
